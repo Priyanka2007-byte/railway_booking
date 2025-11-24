@@ -1,0 +1,7 @@
+Booking ID: 2
+Name: Priyanka Barik
+Age: 18
+Gender: Female
+Train ID: 1
+Class: 2A
+Generated: Mon Nov 24 23:05:36 2025
